@@ -1,12 +1,9 @@
-# RabbitMQDotnet
+# RabbitMQDotnetBasic
 
-Using RabbitMQ with C#
+RabbitMQ com C#:
 
-First Release
-Implemented:
-
-- Create Queue
-- Read One Message From Queue
-- Write Message to Queue
-- Retrieve List of Messages
-- Message Count
+- Criação de Fila
+- Ler uma mensagem de uma fila
+- Escrever Mensagem na fila
+- Trazer lista de mensagens
+- Contador de Mensagens
